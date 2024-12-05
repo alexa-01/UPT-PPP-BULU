@@ -39,7 +39,6 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="./?page=home">Home</a></li>
           <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="./?page=sejarah">Sejarah</a></li>
